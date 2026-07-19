@@ -200,10 +200,12 @@ CODE YOUR JOURNEY
 
 ### 비교 대상
 
+- Nano Banana Pro
 - Leonardo AI
 - FLUX
 - GPT Image
-- Gemini Image 계열
+- Gemini Image 3.1 Pro
+- Ideogram 4.0
 
 ### 비교 기준
 
