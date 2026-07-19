@@ -200,7 +200,6 @@ CODE YOUR JOURNEY
 
 ### 비교 대상
 
-- Midjourney
 - Leonardo AI
 - FLUX
 - GPT Image
