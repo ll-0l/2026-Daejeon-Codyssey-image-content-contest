@@ -1,13 +1,19 @@
-# NEXT STOP, DAEJEON!
-## Codyssey Daejeon AI Key Visual Project
+# 대전 코디세이 이미지 콘텐츠 공모전
 
-> **Code Your Journey**  
-> 걸리버와 동료들이 미래형 코디세이 항해선을 타고, 새로운 배움과 도전이 기다리는 대전을 다음 목적지로 발견하는 순간을 표현한 생성형 AI 키비주얼 프로젝트입니다.
+## NEXT STOP, DAEJEON!
 
----
-## 0. NEXT STOP, DAEJEON!
-!![대전 코디세이 이미지 콘텐츠 공모전 출품작](./대전 코디세이 이미지 콘텐츠 공모전_신의령.png)
+<p align="center">
+  <img
+    src="./대전%20코디세이%20이미지%20콘텐츠%20공모전_신의령.png"
+    alt="대전 코디세이 이미지 콘텐츠 공모전 출품작"
+    width="650"
+  >
+</p>
 
+<p align="center">
+  <strong>CODE YOUR JOURNEY</strong><br>
+  제작자: 신의령
+</p>
 
 ## 1. 프로젝트 개요
 
